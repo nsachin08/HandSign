@@ -1,1 +1,1 @@
-web: python Hand_Sign.py
+web: gunicorn app:app
